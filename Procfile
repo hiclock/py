@@ -1,1 +1,1 @@
-web: tornado hello.py
+web: python hello.py
