@@ -1,3 +1,4 @@
+import os
 import tornado.ioloop
 import tornado.web
 class MainHandler(tornado.web.RequestHandler):
@@ -6,7 +7,7 @@ class MainHandler(tornado.web.RequestHandler):
         
 class TestHandler(tornado.web.RequestHandler):
     def get(self):
-        self.write("test Hello, world")
+        self.write(os.environ["TEMP"])
         
 Handlers=[
     (r"/", MainHandler),
