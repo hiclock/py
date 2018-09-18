@@ -1,4 +1,4 @@
 request==1.0.2
 requests==2.19.1
 tornado==5.0.2
-hfc-py==0.7.0
+hfc-py>=0.6.0
