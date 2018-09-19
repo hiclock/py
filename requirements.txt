@@ -16,7 +16,6 @@ idna==2.7
 iniparse==0.4
 ipaddress==1.0.22
 pycparser==2.18
-pycurl==7.19.0
 pygobject==3.22.0
 pygpgme==0.3
 pyliblzma==0.5.3
@@ -27,4 +26,3 @@ six==1.11.0
 SQLAlchemy==1.2.11
 tornado==5.1.1
 urlgrabber==3.10
-yum-metadata-parser==1.1.4
