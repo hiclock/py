@@ -6,7 +6,6 @@ hkdf >= 0.0.3
 pycryptodomex >= 3.4.2
 pysha3 == 1.0b1
 rx >= 1.5.3
-six >= 1.4.0
 protobuf >= 3.5.2.post1
 altgraph==0.16.1
 APScheduler==3.5.1
