@@ -16,7 +16,7 @@ idna==2.7
 iniparse==0.4
 ipaddress==1.0.22
 pycparser==2.18
-pygobject==3.22.0
+pygobject==3.30.0
 pygpgme==0.3
 pyliblzma==0.5.3
 PyMySQL==0.9.2
